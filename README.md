@@ -65,12 +65,3 @@ To Run to sample app you have to do the following changes by Adding **AppID**, *
 ## Add UI Kit to your project
 
 Learn more about how to integrate [UI Kit](https://github.com/cometchat-pro/ios-chat-uikit) inside your app. 
-
----
-
-# Troubleshooting
-
-- To read the full dcoumentation on UI Kit integration visit our [Documentation](https://prodocs.cometchat.com/docs/ios-ui-kit)  .
-
-- Facing any issues while integrating or installing the UI Kit please <a href="https://app.cometchat.io/"> connect with us via real time support present in CometChat Dashboard.</a>
-
